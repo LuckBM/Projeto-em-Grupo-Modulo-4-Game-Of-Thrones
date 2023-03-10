@@ -1,0 +1,40 @@
+Regiões					
+	North	Riverlands	Vale of Arryn	Westerlands	Iron Islands
+Casas					
+1	Amber	Baelish of Harrenhal	Arryn of Gulltown	Algood	Andrik of Southshield (Shield Islands)
+2	Ashwood	Blackwood of Raventree Hall (formerly North)	Arryn of the Eyrie	Appleton of Appleton	Blacktyde of Blacktyde
+3	Bigglestone	Bracken of Stone Hedge	Belmore of Strongsong	Banefort of Banefort	Botley of Lordsport
+4	Blackmyre (Crannogmen)	Cox of Saltpans	Coldwater of Coldwater Burn	Bettley	Codd
+5	Bolton of the Dreadfort	Crabb of the Whispers (Crackclaw Point)	Egen	Brax of Hornvale	Drumm of Old Wyk
+6	Bolton of Winterfell	Darry of Darry	Grafton of Gulltown	Broom	Farwynd of Sealskin Point
+7	Borrell of Sweetsister (Sistermen)	Frey of Riverrun	Lynderly of Snakewood	Clegane of Clegane's Keep	Far
+8	Branch (Wolfswood Clans)	Frey of the Crossing	Melcolm of Old Anchor	Clifton	
+9	Burley (Mountain Clans)	Goodbrook	Royce of Runestone	Doggett	
+10	Cassel	Hawick of Saltpans	Royce of the Gates of the Moon	Farman of Faircastle	
+11	Cerwyn of Castle Cerwyn	Lolliston	Ruthermont	Ferren	
+12	Condon	Mallister of Seagard		Garner	
+13	Crowl of Deepdown (Skagosi Clans)	Mooton of Maidenpool		Haigh	
+14	Dustin of Barrowton	Nayland of Hag's Mire		Hamell	
+15	Flint of Breakstone Hill	Piper of Pinkmaiden		Jast	
+16	Flint of Flint's Finger	Prester of Feastfires		Lannett	
+17	Flint of the Mountains (Mountain Clans)	Roote of Lord Harroway's Town		Lannister of Casterly Rock	
+18	Flint of Widow's Watch	Ryger of Willow Wood		Lannister of Lannisport	
+19	Glovers of Deepwood Motte	Rykker of Duskendale (origin Crownlands)		Lanny	
+20	Greystark of the Wolf's Den	Whent of Harrenhal (formerly)		Lantell	
+21	Hornwood of Hornwood			Lefford of the Golden Tooth	
+22	Karstark of Karhold			Leygood	
+23	Knott (Mountain Clans)			Marbrand of Ashemark	
+24	Liddle (Mountain Clans)			Moreland	
+25	Marsh			Plumm	
+26	Mormont of Bear Island			Sarsfield of Sarsfield	
+27	Moss			Spicer of Castamere	
+28	Mudd of Oldstones			Stackspear	
+29	Norrey (Mountain Clans)			Westerling of the Crag	
+30	Overton				
+31	Peat (Crannogmen)				
+32	Reed of Greywater Watch (Crannogmen)				
+33	Ryswell of the Rills				
+34	Ryder of the Rills				
+35	Slate of Blackpool				
+36	Umber of Last Hearth				
+Numero de casas:	36	20	11	29	7
