@@ -1,3 +1,8 @@
+[image](https://user-images.githubusercontent.com/116355056/224568687-ea0ca62b-92c6-45db-be01-698ff2c7a813.png)
+
+## Modulo 4 - Projeto em grupo
+
+
 # Proposta do Projeto:
 
 ➤ Temos um problema e precisaremos da sua ajuda para resolver! Acumulamos alguns dados e não conseguimos ter uma visão padronizada deles. Nesse projeto você e sua equipe deverão montar um dashboard com base no conjunto de dados escolhidos por vocês(Game Of Thrones), a fim de realizar uma apresentação com a exploração dos dados.
