@@ -1,5 +1,5 @@
 CREATE TABLE characters(
-   character_actor   VARCHAR(34) NOT NULL PRIMARY KEY
+   character_actor   VARCHAR(34) NOT NULL 
   ,actor             VARCHAR(27) NOT NULL
   ,episodes_appeared INTEGER  NOT NULL
   ,first_appearance  INTEGER  NOT NULL
