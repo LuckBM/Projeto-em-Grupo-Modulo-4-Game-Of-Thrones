@@ -1,4 +1,4 @@
-[image](https://user-images.githubusercontent.com/116355056/224568687-ea0ca62b-92c6-45db-be01-698ff2c7a813.png)
+![image](https://user-images.githubusercontent.com/116355056/224568722-e1bae19e-028a-4074-885f-efffe0b2d8ef.png)
 
 ## Modulo 4 - Projeto em grupo
 
