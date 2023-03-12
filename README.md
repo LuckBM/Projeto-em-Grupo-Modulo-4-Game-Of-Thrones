@@ -29,27 +29,25 @@
 
 ## Perguntas:
 
-# Casas por Região:
+# Gráficos:
 
-- Gráfico:
-
+- Casas por Região
 ![image](https://user-images.githubusercontent.com/116355056/224569719-0b40e1ce-26c4-43ba-897f-4751c994ec4d.png)
 
-- Pesquisa no SQL:
+- Duração total da série:
+![image](https://user-images.githubusercontent.com/116355056/224569931-95e93764-aa16-4e71-82fe-506803acda1a.png)
+
+
+
+# Pesquisa no SQL:
+- Casas por Região
 ```sh
 SELECT region, COUNT(*) as count_houses
 FROM houses
 GROUP BY region;
 
 ```
-
-# Duração total da série:
-
-- Gráfico:
-
-![image](https://user-images.githubusercontent.com/116355056/224569931-95e93764-aa16-4e71-82fe-506803acda1a.png)
-
-- Pesquisa no SQL:
+- Duração total da série
 ```sh
 
 SELECT episode, season, title, duration
