@@ -65,6 +65,11 @@
 
 # 9 - Diretor que mais Participou
 
+![image](https://user-images.githubusercontent.com/116355056/224575696-5f3a9120-d810-4b49-a9c4-d29cd9b85c4c.png)
+
+# 10 - Classificação de cada episódio
+
+![image](https://user-images.githubusercontent.com/116355056/224575732-4f9f3876-80c5-4e9e-b234-3d75f9f9aa39.png)
 
 ## Pesquisa no SQL:
 
