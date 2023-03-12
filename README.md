@@ -24,6 +24,8 @@
 <i class="devicon-canva-original"></i>
 
 
+            <i class="devicon-canva-original colored"></i>
+          
 
 
 
