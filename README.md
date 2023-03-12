@@ -53,7 +53,8 @@
 
 
 ## Pesquisa no SQL:
-# Casas por Região
+
+# 1 - Casas por Região
 ```sh
 SELECT region, COUNT(*) as count_houses
 FROM houses
@@ -61,14 +62,14 @@ GROUP BY region;
 ```
 - Essa consulta irá retornar o nome de cada região na tabela e o número de casas correspondente a essa região.
 
-# Duração total da série
+# 2 - Duração total da série
 ```sh
 SELECT SUM(duration) as total_duration
 FROM episodes;
 ```
 - Essa consulta irá retornar a soma total de todas as durações dos episódios da tabela "episodes"
 
-# Duração de cada episódio
+# 3 - Duração de cada episódio
 ```sh
 
 SELECT episode, season, title, duration
@@ -86,7 +87,7 @@ FROM episodes
 WHERE season = 1;
 ```
 
-# Episódios mais Votados
+# 4 - Episódios mais Votados
 ```sh
 SELECT episode, season, title, duration, votes
 FROM episodes
@@ -95,7 +96,7 @@ LIMIT 10;
 ```
 - Essa consulta irá retornar os 10 episódios mais votados da primeira temporada, em ordem decrescente. Caso queira que apareça mais, substitua o limite para o número desejado. 
 
-# Episódios por Temporada
+# 5 - Episódios por Temporada
 
 ```sh
 SELECT season, COUNT(*) as episode_count
@@ -103,15 +104,32 @@ FROM episodes
 GROUP BY season;
 
 ```
-
 - Essa consulta irá retornar uma tabela com duas colunas: "season" e "episode_count", onde "season" representa o número da temporada e "episode_count" representa a quantidade de episódios para cada temporada.
 
+# 6 - Maior quantia de Aparições
 
 ```sh
+SELECT character_actor, actor, episodes_appeared
+FROM characters
+ORDER BY episodes_appeared DESC
+LIMIT 1;
+```
+- Essa consulta irá retornar uma linha com o nome do ator que interpretou o personagem com mais aparições e a quantidade de aparições. Caso queira mais atores, altere o limite para o número desejado.
 
+# 7 - Review dos Críticos
+
+```sh
+SELECT title, critics_reviews
+FROM episodes;
 ```
 
 
+# 8 - Review dos Usuários
+
+```sh
+SELECT title, critics_user
+FROM episodes;
+```
 
 
 
