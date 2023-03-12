@@ -17,12 +17,13 @@
 
 # Tecnologias Usadas:
 
-➤ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-          
-
+➤ MySQL
 ➤ Excel
+➤ Canva
 
+# Perguntas:
 
+➤
 
 
 
