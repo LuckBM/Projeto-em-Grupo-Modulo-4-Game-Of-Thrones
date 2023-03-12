@@ -122,20 +122,33 @@ LIMIT 1;
 SELECT title, critics_reviews
 FROM episodes;
 ```
+- Essa consulta retorna a Review dos críticos
 
 
-# 8 - Review dos Usuários
+# 8 - Review dos Espectadores
 
 ```sh
-SELECT title, critics_user
+SELECT title, critics_viewers
 FROM episodes;
 ```
+- Essa consulta retorna a Review dos Espectadores
 
+# 9 - Diretor que mais Participou
+```sh
+SELECT director, COUNT(*) as episode_count
+FROM episodes
+GROUP BY director
+ORDER BY episode_count DESC
+LIMIT 1;
+```
+- Essa consulta retorna o diretor que mais participou da série. Caso queira que apareça os demais, substitua o limite para o número desejado. 
 
-
-
-
-
+# 10 - Classificação de cada episódio
+```sh
+SELECT title, rating
+FROM episodes;
+```
+- Essa consulta retorna a classificação de cada episódio.
 
 
 
