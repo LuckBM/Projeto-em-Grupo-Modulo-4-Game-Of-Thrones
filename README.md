@@ -52,17 +52,16 @@
 ![image](https://user-images.githubusercontent.com/116355056/224571496-38a4b09f-98d5-46a8-adb0-6cdcea6e4c77.png)
 
 
-# Pesquisa no SQL:
-- Casas por Região
+## Pesquisa no SQL:
+# Casas por Região
 ```sh
 SELECT region, COUNT(*) as count_houses
 FROM houses
 GROUP BY region;
-
+```
 - Essa consulta irá retornar o nome de cada região na tabela e o número de casas correspondente a essa região.
 
-```
-- Duração total da série
+# Duração total da série
 ```sh
 
 SELECT episode, season, title, duration
