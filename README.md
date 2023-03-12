@@ -15,7 +15,27 @@
 
 ➤ Montar uma apresentação a partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionado.
 
+# Tecnologias Usadas:
+
+➤ SQL
+
+➤ Excel
+
+➤ Canva
+
+git clone https://github.com/facebook/CacheLib
+cd CacheLib
+./contrib/build.sh -d -j -v
+
+# The resulting library and executables:
+./opt/cachelib/bin/cachebench --help
 
 
 
+
+
+
+
+
+# Modelo Lógico:
 ![modelo_logicom4](https://user-images.githubusercontent.com/115815559/224511009-c0b4487f-05d3-45f7-a1ef-b73a30a4b0cf.png)
