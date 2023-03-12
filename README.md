@@ -24,15 +24,19 @@
 # Tecnologias Usadas:
 
 ➤ MySQL
+
 ➤ Excel
+
 ➤ Canva
+
+➤ Git
 
 # Perguntas:
 
 ➤
 
 
-Slide de apresentação: [Aqui](https://www.canva.com/design/DAFc7nvAnZk/p6SQz8F1cndMqH8L73sYDQ/view?utm_content=DAFc7nvAnZk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+# Slide de apresentação: [Aqui](https://www.canva.com/design/DAFc7nvAnZk/p6SQz8F1cndMqH8L73sYDQ/view?utm_content=DAFc7nvAnZk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
