@@ -2,6 +2,25 @@
 # Game Of Thrones
 
 
+* Tecnologias Usadas:
+-
+-
+-
+-
+
+* Grupo:
+-
+-
+-
+-
+-
+
+
+
+
+
+
+
 
 
 
