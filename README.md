@@ -49,10 +49,13 @@ GROUP BY region;
 ![image](https://user-images.githubusercontent.com/116355056/224569931-95e93764-aa16-4e71-82fe-506803acda1a.png)
 
 - Pesquisa no SQL:
+```sh
 
 SELECT episode, season, title, duration
 FROM episodes
 ORDER BY season, episode;
+
+```
 
 # 
 
