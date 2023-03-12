@@ -28,9 +28,18 @@
 
 ➤ Git
 
-# Perguntas:
+## Perguntas:
 
-➤
+# ➤ Casas por Região:
+Grafico:
+
+![image](https://user-images.githubusercontent.com/116355056/224569719-0b40e1ce-26c4-43ba-897f-4751c994ec4d.png)
+
+Pesquisa no SQL:
+SELECT region, COUNT(*) as count_houses
+FROM houses
+GROUP BY region;
+
 
 
 # Slide de apresentação: [Aqui](https://www.canva.com/design/DAFc7nvAnZk/p6SQz8F1cndMqH8L73sYDQ/view?utm_content=DAFc7nvAnZk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
