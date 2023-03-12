@@ -23,14 +23,11 @@
 
 ➤ Canva
 
-git clone https://github.com/facebook/CacheLib
-cd CacheLib
-./contrib/build.sh -d -j -v
-
-# The resulting library and executables:
-./opt/cachelib/bin/cachebench --help
-
-
+<dependency>
+    <groupId>com.dropbox.core</groupId>
+    <artifactId>dropbox-core-sdk</artifactId>
+    <version>5.4.4</version>
+</dependency>
 
 
 
