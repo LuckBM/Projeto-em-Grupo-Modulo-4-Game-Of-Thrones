@@ -31,15 +31,28 @@
 ## Perguntas:
 
 # Casas por Região:
-Grafico:
+
+- Gráfico:
 
 ![image](https://user-images.githubusercontent.com/116355056/224569719-0b40e1ce-26c4-43ba-897f-4751c994ec4d.png)
 
-Pesquisa no SQL:
-- SELECT region, COUNT(*) as count_houses
+- Pesquisa no SQL:
+
+SELECT region, COUNT(*) as count_houses
 FROM houses
 GROUP BY region;
 
+# Duração total da série:
+
+- Gráfico:
+
+![image](https://user-images.githubusercontent.com/116355056/224569931-95e93764-aa16-4e71-82fe-506803acda1a.png)
+
+- Pesquisa no SQL:
+
+SELECT episode, season, title, duration
+FROM episodes
+ORDER BY season, episode;
 
 
 # Slide de apresentação: [Aqui](https://www.canva.com/design/DAFc7nvAnZk/p6SQz8F1cndMqH8L73sYDQ/view?utm_content=DAFc7nvAnZk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
