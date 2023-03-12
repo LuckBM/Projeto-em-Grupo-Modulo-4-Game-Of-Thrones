@@ -1,7 +1,6 @@
 ![image](https://user-images.githubusercontent.com/116355056/224568722-e1bae19e-028a-4074-885f-efffe0b2d8ef.png)
 
-## Modulo 4 - Projeto em grupo
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000ff&size=40&center=true&vCenter=true&width=1000&lines=+Modulo+-+4+Banco+de+Dados+GOT)](https://git.io/typing-svg)
 
 
 # Objetivos do Projeto:
