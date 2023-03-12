@@ -66,7 +66,7 @@ GROUP BY region;
 SELECT SUM(duration) as total_duration
 FROM episodes;
 ```
--Essa consulta irá retornar a soma total de todas as durações dos episódios da tabela "episodes"
+- Essa consulta irá retornar a soma total de todas as durações dos episódios da tabela "episodes"
 
 # Duração de cada episódio
 ```sh
@@ -77,6 +77,40 @@ ORDER BY season, episode;
 
 ```
 - Essa consulta irá retornar a lista de episódios ordenados primeiro pela temporada e depois pelo número do episódio dentro da temporada.
+
+- Se você quiser filtrar a duração total por temporada, pode adicionar a cláusula WHERE para filtrar apenas os episódios de uma temporada específica. Por exemplo, para obter a duração total da primeira temporada. Exemplo:
+
+```sh
+SELECT SUM(duration) as total_duration
+FROM episodes
+WHERE season = 1;
+```
+
+
+
+
+
+
+```sh
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 - Slide de apresentação: [Aqui](https://www.canva.com/design/DAFc7nvAnZk/p6SQz8F1cndMqH8L73sYDQ/view?utm_content=DAFc7nvAnZk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
