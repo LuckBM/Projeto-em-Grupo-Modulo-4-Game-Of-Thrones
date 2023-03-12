@@ -897,22 +897,7 @@ CREATE TABLE `episodes` (
   `us_viewers` decimal(5,2) DEFAULT NULL,
   `duration` int(11) DEFAULT NULL,
   `director` varchar(18) DEFAULT NULL,
-  `budget_estimate` bit(1) DEFAULT NULL,
-  `FIELD19` varchar(30) DEFAULT NULL,
-  `FIELD20` varchar(30) DEFAULT NULL,
-  `FIELD21` varchar(30) DEFAULT NULL,
-  `FIELD22` varchar(30) DEFAULT NULL,
-  `FIELD23` varchar(30) DEFAULT NULL,
-  `FIELD24` varchar(30) DEFAULT NULL,
-  `FIELD25` varchar(30) DEFAULT NULL,
-  `FIELD26` varchar(30) DEFAULT NULL,
-  `FIELD27` varchar(30) DEFAULT NULL,
-  `FIELD28` varchar(30) DEFAULT NULL,
-  `FIELD29` varchar(30) DEFAULT NULL,
-  `FIELD30` varchar(30) DEFAULT NULL,
-  `FIELD31` varchar(30) DEFAULT NULL,
-  `FIELD32` varchar(30) DEFAULT NULL,
-  `FIELD33` varchar(30) DEFAULT NULL
+  `budget_estimate` bit(1) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
