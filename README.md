@@ -23,7 +23,7 @@
 
 ➤ Canva
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<Canva>&color=<blue>
+https://img.shields.io/badge/-Canva-blue
 
 # Modelo Lógico:
 ![modelo_logicom4](https://user-images.githubusercontent.com/115815559/224511009-c0b4487f-05d3-45f7-a1ef-b73a30a4b0cf.png)
