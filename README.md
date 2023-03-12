@@ -86,9 +86,25 @@ FROM episodes
 WHERE season = 1;
 ```
 
+# Episódios mais Votados
+```sh
+SELECT episode, season, title, duration, votes
+FROM episodes
+ORDER BY votes DESC
+LIMIT 10;
+```
+- Essa consulta irá retornar os 10 episódios mais votados da primeira temporada, em ordem decrescente. Caso queira que apareça mais, substitua o limite para o número desejado. 
 
+# Episódios por Temporada
 
+```sh
+SELECT season, COUNT(*) as episode_count
+FROM episodes
+GROUP BY season;
 
+```
+
+- Essa consulta irá retornar uma tabela com duas colunas: "season" e "episode_count", onde "season" representa o número da temporada e "episode_count" representa a quantidade de episódios para cada temporada.
 
 
 ```sh
