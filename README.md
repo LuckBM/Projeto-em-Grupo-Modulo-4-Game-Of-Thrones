@@ -30,13 +30,13 @@
 
 ## Perguntas:
 
-# ➤ Casas por Região:
+# Casas por Região:
 Grafico:
 
 ![image](https://user-images.githubusercontent.com/116355056/224569719-0b40e1ce-26c4-43ba-897f-4751c994ec4d.png)
 
 Pesquisa no SQL:
-SELECT region, COUNT(*) as count_houses
+- SELECT region, COUNT(*) as count_houses
 FROM houses
 GROUP BY region;
 
