@@ -1,15 +1,15 @@
 # Projeto em Grupo Modulo 4
-# Game Of Thrones
+## Game Of Thrones
 
 
-* Tecnologias Usadas:
--
+Tecnologias Usadas:
+*-
 -
 -
 -
 
-* Grupo:
--
+Grupo:
+*-
 -
 -
 -
