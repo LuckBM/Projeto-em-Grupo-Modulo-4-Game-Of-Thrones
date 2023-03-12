@@ -36,10 +36,12 @@
 ![image](https://user-images.githubusercontent.com/116355056/224569719-0b40e1ce-26c4-43ba-897f-4751c994ec4d.png)
 
 - Pesquisa no SQL:
-
+```sh
 SELECT region, COUNT(*) as count_houses
 FROM houses
 GROUP BY region;
+
+```
 
 # Duração total da série:
 
@@ -56,7 +58,6 @@ ORDER BY season, episode;
 
 ```
 
-# 
 
 
 - Slide de apresentação: [Aqui](https://www.canva.com/design/DAFc7nvAnZk/p6SQz8F1cndMqH8L73sYDQ/view?utm_content=DAFc7nvAnZk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -69,4 +70,3 @@ ORDER BY season, episode;
 ![modelo_logicom4](https://user-images.githubusercontent.com/115815559/224511009-c0b4487f-05d3-45f7-a1ef-b73a30a4b0cf.png)
 
 
-  <img align="center" margin-botton="5px" src="https://github-readme-stats.vercel.app/api/pin/?
