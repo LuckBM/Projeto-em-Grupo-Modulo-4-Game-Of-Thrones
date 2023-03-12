@@ -1,5 +1,6 @@
 # Proposta do Projeto:
-- Temos um problema e precisaremos da sua ajuda para resolver! Acumulamos alguns dados e não conseguimos ter uma visão padronizada deles. Nesse projeto você e sua equipe deverão montar um dashboard com base no conjunto de dados escolhidos por vocês(Game Of Thrones), a fim de realizar uma apresentação com a exploração dos dados.
+
+➤ Temos um problema e precisaremos da sua ajuda para resolver! Acumulamos alguns dados e não conseguimos ter uma visão padronizada deles. Nesse projeto você e sua equipe deverão montar um dashboard com base no conjunto de dados escolhidos por vocês(Game Of Thrones), a fim de realizar uma apresentação com a exploração dos dados.
 
 # Objetivos do Projeto:
 
