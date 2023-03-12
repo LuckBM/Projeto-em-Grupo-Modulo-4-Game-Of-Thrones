@@ -3,13 +3,15 @@
 
 
 Tecnologias Usadas:
-*-
+*
+-
 -
 -
 -
 
 Grupo:
-*-
+*
+-
 -
 -
 -
