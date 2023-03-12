@@ -32,18 +32,23 @@
 # Gráficos:
 
 - Casas por Região
+
 ![image](https://user-images.githubusercontent.com/116355056/224569719-0b40e1ce-26c4-43ba-897f-4751c994ec4d.png)
 
-- Duração total da série:
+- Duração total da série
+
 ![image](https://user-images.githubusercontent.com/116355056/224569931-95e93764-aa16-4e71-82fe-506803acda1a.png)
 
-- Duração de cada episodio
+- Duração de cada episódio
+
 ![image](https://user-images.githubusercontent.com/116355056/224571441-641981c0-4df9-41ca-89f6-65c3527ac909.png)
 
 - Episódios mais votados
+
 ![image](https://user-images.githubusercontent.com/116355056/224571458-d2e3c237-1629-4ca2-ac23-ab4ecfa9f749.png)
 
 - Episodios por Temporada
+
 ![image](https://user-images.githubusercontent.com/116355056/224571496-38a4b09f-98d5-46a8-adb0-6cdcea6e4c77.png)
 
 
