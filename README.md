@@ -17,6 +17,7 @@
 
 ➤ Montar uma apresentação a partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionado.
 
+
 # Tecnologias Usadas:
 
 ➤ MySQL
@@ -28,7 +29,6 @@
 ➤ Git
 
 ➤ CSV 
-
 
 
 ## Perguntas:
@@ -172,12 +172,6 @@ SELECT title, rating
 FROM episodes;
 ```
 - Essa consulta retorna a classificação de cada episódio.
-
-
-
-
-
-
 
 
 
