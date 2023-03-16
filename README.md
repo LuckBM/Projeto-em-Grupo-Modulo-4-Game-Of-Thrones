@@ -26,8 +26,6 @@
 
 ➤ Canva
 
-➤ Git
-
 ➤ CSV 
 
 
